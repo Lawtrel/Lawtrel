@@ -1,4 +1,4 @@
-## Welcome to Lawtrel's profile! / Bem vindo ao perfil de Lawtrel!
+## Welcome to Lawtrel's profile! 🤑 / Bem vindo ao perfil de Lawtrel! 🤑
 
  
  <div>
