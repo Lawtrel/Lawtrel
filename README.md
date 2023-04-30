@@ -3,7 +3,7 @@
 
  <div align="center">
  
- [![Spotify](https://frostmain.vercel.app/api/spotify)](https://open.spotify.com/user/12165992597)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12165992597&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12165992597&redirect=true)
  
   <a href="https://github.com/Lawtrel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lawtrel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
