@@ -14,7 +14,6 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Pic" height="150" style="border-radius:50px;"src="https://yt3.ggpht.com/W0EXDhZJ3fBE4jTHmtpEpwHcIwf-I5UcJBJId2DdM2mD6-bs1plCSm_WIQoB_IiqUToOawPEyjA=s600-c-k-c0x00ffffff-no-rj-rp-mo?width=676&height=676">
 </div>
 
