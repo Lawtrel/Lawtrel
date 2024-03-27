@@ -1,4 +1,5 @@
-## Hi 👋! My name is Lawtrel
+## Hi 👋! I'm Lawtrel, passionate about integrating technology and automation to optimize industrial processes and create efficient information systems.
+
 
 
  <div align="center">
