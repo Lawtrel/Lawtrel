@@ -1,33 +1,37 @@
-<h1 align="center">Hi 👋, I'm Lawtrel</h1>
-<h3 align="center">passionate about integrating technology and automation to optimize industrial processes and create efficient information systems.</h3>
+# Leandro Alves dos Santos
 
+**Graduando em Engenharia de Software na UNEB | Técnico em Automação pelo SENAI**
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12165992597&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=12165992597&redirect=true)
+Desenvolvo aplicações web, APIs e projetos que conectam software e hardware. Busco oportunidades de **estágio e desenvolvimento júnior**, com foco em backend, integração de sistemas e automação.
 
-- 🔭 I’m currently working on [Chip-8](https://github.com/Lawtrel/Chip8-Emu)
+Atuo na **Tecno System EJ**, com desenvolvimento fullstack e colaboração em equipe, e realizo **iniciação científica na UNEB**, investigando agentes baseados em LLMs para refatoração de testes de software.
 
-- 🌱 I’m currently learning **Typescript**
+[LinkedIn](https://www.linkedin.com/in/leandro-goncalvess/) · [ORCID](https://orcid.org/0009-0005-0819-0878)
 
-- 👯 I’m looking to collaborate on [research-javascript-test-smells](https://github.com/Lawtrel/research-javascript-test-smells)
+## Projetos em destaque
 
-- 🤝 I’m looking for help with [Confirmar.ai](https://github.com/TecnoSystem-EJ/Confirmai)
+| Projeto | Problema e implementação | Tecnologias |
+| --- | --- | --- |
+| [Frame-24](https://github.com/Lawtrel/frame-24) | Gestão de cinemas em monorepo, com API, interfaces web e persistência de dados. Projeto acadêmico em equipe. | TypeScript, NestJS, Next.js, Prisma, PostgreSQL |
+| [TecnoManager](https://github.com/Lawtrel/tecnomanager) | API para projetos, tarefas e membros de uma empresa júnior, com regra que impede concluir projetos com tarefas pendentes. | Java, Spring Boot, JPA, Flyway |
+| [Bitfrost](https://github.com/Lawtrel/bitfrost) | Gestão de vales, clientes e transportadoras, com backend REST, interface web e testes de API. | TypeScript, Express, React, Prisma, Jest |
+| [Chip-8 Emulator](https://github.com/Lawtrel/Chip8-Emu) | Emulação de CPU com um núcleo compartilhado entre navegador e terminal. | TypeScript, Node.js, Vite, Canvas |
+| [BeatTime](https://github.com/Lawtrel/BeatTime) | Projeto embarcado com Pico W, display OLED, LEDs e integração com um backend para Spotify. | C, Raspberry Pi Pico W, Node.js, HTTP |
+| [Robotmotion](https://github.com/Lawtrel/robotMotion) | Pet eletrônico com estados, display OLED, persistência e interface web, desenvolvido em equipe. | C++, ESP8266, I2C, EEPROM |
 
-- 👨‍💻 All of my projects are available at [https://github.com/Lawtrel/](https://github.com/Lawtrel/)
+## Conhecimentos aplicados
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/lawtrel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lawtrel" height="30" width="40" /></a>
-<a href="https://twitter.com/lawtrel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lawtrel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/leandro-goncalvess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro-goncalvess" height="30" width="40" /></a>
-<a href="https://instagram.com/21.lawtrel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="21.lawtrel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@lawtrel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@lawtrel" height="30" width="40" /></a>
-</p>
+- **Backend:** JavaScript, TypeScript, Node.js, Express, NestJS, Java, Spring Boot e APIs REST.
+- **Dados:** MySQL, PostgreSQL, MongoDB e Prisma ORM.
+- **Interfaces:** React, Next.js, React Native, HTML e CSS.
+- **Automação e sistemas embarcados:** projetos com C/C++, ESP8266, Raspberry Pi Pico W, GPIO e I2C.
+- **Ferramentas e qualidade:** Git, GitHub, Docker, Linux e pesquisa em testes de software.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Formação e atuação
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+- **Engenharia de Software - UNEB:** em andamento, conclusão prevista para dezembro de 2027.
+- **Técnico em Automação - SENAI:** concluído em 2022.
+- **Tecno System EJ:** Diretor de Projetos, com atuação técnica em desenvolvimento fullstack.
+- **Iniciação científica - UNEB:** agentes baseados em LLMs para refatoração de testes.
+
+Os repositórios incluem projetos acadêmicos, experimentos e trabalhos em equipe. Consulte os READMEs para conhecer o escopo, as instruções de execução e as limitações de cada implementação.
